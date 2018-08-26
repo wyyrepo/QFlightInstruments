@@ -1,0 +1,5 @@
+AUTHORS
+
+Marek M. Cel
+marekcel@marekcel.pl
+Core library, SVG graphics, example program.
